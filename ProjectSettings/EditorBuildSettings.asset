@@ -20,7 +20,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/4-network-properties.unity
     guid: 776d63e2df3c5ce4e8425c6de4ced4fa
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/5-rpc.unity
     guid: 7967585ff09e1c440b045731214a4a93
+  - enabled: 1
+    path: Assets/Scenes/6-ex.unity
+    guid: d87eaf67a0456b645929f91589f5b77b
   m_configObjects: {}

@@ -20,4 +20,6 @@ public class Health : NetworkBehaviour
         Debug.Log("Received DealDamageRpc on StateAuthority, modifying Networked variable");
         NetworkedHealth -= damage;
     }
+
+ 
 }
